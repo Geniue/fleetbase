@@ -36,7 +36,6 @@ packages/flespi
 packages/loconav
 packages/internals
 packages/projectargus-engine
-packages/customer-portal
 packages/solid
 packages/aws-marketplace
 packages/countries
@@ -58,3 +57,6 @@ builds/osx/frankenphp
 *.dll
 *.so
 *.dylib
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
